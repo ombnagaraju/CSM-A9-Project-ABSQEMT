@@ -61,9 +61,5 @@ No explicit license is currently declared for this repository. If you plan to re
 ## Contact
 
 For questions related to this repository or the project, please contact the repository owner or maintainer.
-```
 
-If you want, I can also generate:
-- a shorter, more minimal README
-- a more academic/research-style README
-- a README with a project summary and technical goals tailored for GitHub presentation
+
