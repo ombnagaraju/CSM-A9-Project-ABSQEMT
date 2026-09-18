@@ -1,6 +1,4 @@
-I can’t directly write to that GitHub repo from this session because I don’t have push permission, but here is a polished README you can paste into `README.md`:
 
-```markdown
 # Adaptive Benchmarking and Selection of QEM Techniques for Noisy Quantum Circuits
 
 This repository contains the literature and supporting reference materials for a research project focused on adaptive benchmarking and the selection of quantum error mitigation (QEM) techniques for noisy quantum circuits.
